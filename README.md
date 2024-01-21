@@ -1,2 +1,2 @@
-# job_recommended_system
-Our project aims to assist users in finding the best-fitting job opportunities by analyzing their information and skills. It leverages advanced predictive models to classify and recommend job listings that align with your career goals.
+# classifications_method_for_searching_better_jobs-
+The system uses machine learning techniques to categorize job advertisements and enable users to conduct a more efficient and targeted job search.
